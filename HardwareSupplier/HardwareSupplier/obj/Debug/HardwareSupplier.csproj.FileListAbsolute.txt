@@ -1,0 +1,7 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\bin\HardwareSupplier.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\bin\HardwareSupplier.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\bin\EntityFramework.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\bin\EntityFramework.xml
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\obj\Debug\HardwareSupplier.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\obj\Debug\HardwareSupplier.dll
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HardwareSupplier\HardwareSupplier\obj\Debug\HardwareSupplier.pdb
