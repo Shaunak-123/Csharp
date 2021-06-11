@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HouseOwner\Company\bin\Debug\Company.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HouseOwner\Company\bin\Debug\Company.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HouseOwner\Company\obj\x86\Debug\Company.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HouseOwner\Company\obj\x86\Debug\Company.pdb

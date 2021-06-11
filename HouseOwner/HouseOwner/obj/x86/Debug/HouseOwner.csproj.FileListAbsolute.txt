@@ -1,0 +1,5 @@
+c:\users\admin\documents\visual studio 2010\Projects\HouseOwner\HouseOwner\bin\Debug\HouseOwner.exe
+c:\users\admin\documents\visual studio 2010\Projects\HouseOwner\HouseOwner\bin\Debug\HouseOwner.pdb
+c:\users\admin\documents\visual studio 2010\Projects\HouseOwner\HouseOwner\obj\x86\Debug\HouseOwner.exe
+c:\users\admin\documents\visual studio 2010\Projects\HouseOwner\HouseOwner\obj\x86\Debug\HouseOwner.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\HouseOwner\HouseOwner\bin\Debug\HouseOwner.exe.config
