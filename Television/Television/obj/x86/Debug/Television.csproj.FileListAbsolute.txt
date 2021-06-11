@@ -1,0 +1,4 @@
+c:\users\admin\documents\visual studio 2010\Projects\Television\Television\bin\Debug\Television.exe
+c:\users\admin\documents\visual studio 2010\Projects\Television\Television\bin\Debug\Television.pdb
+c:\users\admin\documents\visual studio 2010\Projects\Television\Television\obj\x86\Debug\Television.exe
+c:\users\admin\documents\visual studio 2010\Projects\Television\Television\obj\x86\Debug\Television.pdb

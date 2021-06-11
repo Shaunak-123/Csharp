@@ -1,0 +1,4 @@
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Transaction\Transaction\bin\Debug\Transaction.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Transaction\Transaction\bin\Debug\Transaction.pdb
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Transaction\Transaction\obj\x86\Debug\Transaction.exe
+C:\Users\ADMIN\Documents\Visual Studio 2010\Projects\Transaction\Transaction\obj\x86\Debug\Transaction.pdb

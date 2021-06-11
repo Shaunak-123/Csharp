@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transaction", "Transaction\Transaction.csproj", "{0148A855-E4E4-4008-A348-A9C59E4EE890}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amount", "Amount\Amount.csproj", "{AE7B04BE-4CAD-4E58-8D67-1072C83902C4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0148A855-E4E4-4008-A348-A9C59E4EE890}.Debug|x86.ActiveCfg = Debug|x86
+		{0148A855-E4E4-4008-A348-A9C59E4EE890}.Debug|x86.Build.0 = Debug|x86
+		{0148A855-E4E4-4008-A348-A9C59E4EE890}.Release|x86.ActiveCfg = Release|x86
+		{0148A855-E4E4-4008-A348-A9C59E4EE890}.Release|x86.Build.0 = Release|x86
+		{AE7B04BE-4CAD-4E58-8D67-1072C83902C4}.Debug|x86.ActiveCfg = Debug|x86
+		{AE7B04BE-4CAD-4E58-8D67-1072C83902C4}.Debug|x86.Build.0 = Debug|x86
+		{AE7B04BE-4CAD-4E58-8D67-1072C83902C4}.Release|x86.ActiveCfg = Release|x86
+		{AE7B04BE-4CAD-4E58-8D67-1072C83902C4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
